@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Léo</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoorecchioni&label=Profile%20views&color=0e75b6&style=flat" alt="leoorecchioni" /> </p> -->
-
 - 🌱 I’m currently learning **React Native For mobile Apps**
 
 - 💬 Ask me about **C / C++ / Python / HTML / CSS / JS / React Native**
