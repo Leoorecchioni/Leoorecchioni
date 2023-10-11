@@ -20,6 +20,6 @@
 
 ###
 
-![snake gif](https://github.com/Leoorecchioni/Leoorecchioni/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/leoorecchioni/leoorecchioni/blob/output/github-contribution-grid-snake.gif)
 
 ###
