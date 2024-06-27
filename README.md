@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native For mobile Apps**
 
-- 💬 Ask me about **C / C++ / Python / HTML / CSS / JS / React Native**
+- 💬 Ask me about **C / C++ / C# / Python / HTML / CSS / JS / React Native**
 
 - 📫 How to reach me **leo.orecchioni@epitech.eu**
 
