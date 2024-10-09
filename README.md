@@ -3,10 +3,6 @@
 <h1 align="center">👋 Hello, I'm Léo!</h1>
 <h3 >Developer passionate about virtual reality and its transformative potential for the industry, an Epitech student, I am seeking opportunities to learn, collaborate, and innovate in this field.</h3>
 
-<p>
-  <a href="https://github.com/Leoorecchioni"><img src="https://komarev.com/ghpvc/?username=Leoorecchioni&style=flat-square&color=blue" alt="leo" /></a>
-</p>
-
 <hr>
 
 ### 📫 How to reach me:
@@ -43,4 +39,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-<hr>
+<p>
+  <a href="https://github.com/Leoorecchioni"><img src="https://komarev.com/ghpvc/?username=Leoorecchioni&style=flat-square&color=blue" alt="leo" /></a>
+</p>
