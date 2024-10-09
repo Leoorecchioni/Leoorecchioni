@@ -7,7 +7,7 @@
 
 ### 📫 How to reach me:
 - **Email**: [leo.orecchioni@epitech.eu](mailto:leo.orecchioni@epitech.eu)
-- **Portfolio**: [www.myportfolio.com](https://www.myportfolio.com)
+- **Portfolio**: [www.myportfolio.com](Soon ...)
 - **LinkedIn**: [linkedin.com/in/léo-orecchioni-ᯅ-391515235/](https://linkedin.com/in/léo-orecchioni-ᯅ-391515235/)
 
 <hr>
@@ -29,7 +29,6 @@
 
 #### 🛠️ Tools
 <div style="display: flex; flex-direction: row; gap: 100px">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
