@@ -39,6 +39,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/Leoorecchioni"><img src="https://komarev.com/ghpvc/?username=Leoorecchioni&style=flat-square&color=blue" alt="leo" /></a>
 </p>
