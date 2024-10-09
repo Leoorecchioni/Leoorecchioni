@@ -1,9 +1,9 @@
 <!-- My GitHub Profile README -->
 
 <h1 align="center">👋 Hello, I'm Léo!</h1>
-<h3 align="center">Developer passionate about virtual reality and its transformative potential for the industry, an Epitech student, I am seeking opportunities to learn, collaborate, and innovate in this field.</h3>
+<h3 >Developer passionate about virtual reality and its transformative potential for the industry, an Epitech student, I am seeking opportunities to learn, collaborate, and innovate in this field.</h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/Leoorecchioni"><img src="https://komarev.com/ghpvc/?username=Leoorecchioni&style=flat-square&color=blue" alt="leo" /></a>
 </p>
 
@@ -19,7 +19,7 @@
 ### 🚀 Technologies & Tools
 
 #### 🛠️ Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -32,7 +32,7 @@
 </p>
 
 #### 🛠️ Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -44,9 +44,3 @@
 </p>
 
 <hr>
-
-### 🌱 Currently learning:
-
-- [ ] React
-- [ ] DevOps with Kubernetes
-- [ ] Machine Learning with Python
