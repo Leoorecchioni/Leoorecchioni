@@ -8,7 +8,7 @@
 ### 📫 How to reach me:
 - **Email**: [leo.orecchioni@epitech.eu](mailto:leo.orecchioni@epitech.eu)
 - **Portfolio**: (Soon...)
-- **LinkedIn**: [linkedin.com/in/léo-orecchioni-ᯅ-391515235/](https://linkedin.com/in/léo-orecchioni-ᯅ-391515235/)
+- **LinkedIn**: [linkedin.com/in/leo-orecchioni/](https://www.linkedin.com/in/leo-orecchioni/)
 
 <hr>
 
